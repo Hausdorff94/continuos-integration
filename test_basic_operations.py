@@ -14,9 +14,4 @@ def test_mul():
 
 
 def test_div():
-    a=2
-    b=3
-    if b == 0:
-        assert div(a, 0) == "Error: Division by zero"
-    else:
-        assert div(a, 3) == a / b
+    assert div(2, 3) == 2 / 3
