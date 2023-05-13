@@ -1,1 +1,1 @@
-# continuos-integration
+# Continuos Integration Example
